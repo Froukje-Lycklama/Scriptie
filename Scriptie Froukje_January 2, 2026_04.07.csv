@@ -1,0 +1,231 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,QID4,Q7,Q6,Q33,Q8,Q9,Q10,Q11,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"Beste deelnemer,
+
+
+Hartelijk dank dat u wilt deelnemen aan dit onderzoek! Ik ben student aan de Universiteit van Amsterdam en doe onderzoek naar hoe ouderen muziek uit de jaren '80 ervaren, en wat voor muziekelementen hierbij de grootste rol spelen.
+
+
+In dit onderzoek luistert u naar 20 korte muziekfragmenten (ongeveer 30 seconden per fragment) en geeft u elk fragment een cijfer tussen 1 (lage waardering) en 4 (hoge waardering). Het onderzoek duurt ongeveer 15 minuten. 
+
+Deelnemen is volledig vrijwillig, en u kunt op ieder moment stoppen zonder opgaaf van reden.
+
+Alle antwoorden worden anoniem verwerkt. Uw gegevens worden uitsluitend gebruikt voor dit onderzoek en worden niet gedeeld met derden. Er wordt geen persoonlijke informatie verzameld die naar u herleidbaar is.
+
+Als u vragen heeft over het onderzoek, dan kunt u contact opnemen via: froukje.lycklama.a.nijeholt@student.uva.nl 
+
+Hieronder vraag ik u om toestemming om deel te nemen aan dit onderzoek. Door akkoord te gaan, bevestigt u dat u de informatie heeft gelezen en begrijpt, en vrijwillig wilt meedoen.",Wat is uw leeftijd?,Wat is uw geslacht?,Heeft u moeite met horen (gehoorproblemen)?,Gebruikt u een hoorhulpmiddel (zoals een gehoorapparaat)?,Wat is uw muzikale achtergrond?,Hoeveel muziek uit de jaren ’80 herkent u in het algemeen?,"Hoe voelt u zich op dit moment?
+(1=heel slecht, 5=heel goed)","Luister naar het volgende audiofragment:
+
+
+ 
+
+
+
+
+
+Wat vindt u van het fragment?","Luister naar het volgende audiofragment:
+
+
+
+
+
+
+ Hoe waardeert u dit muziekfragment?","Luister naar het volgende audiofragment:
+
+
+
+
+
+
+ Hoe waardeert u dit muziekfragment?","Luister naar het volgende audiofragment:
+
+
+
+
+
+
+
+
+ Hoe waardeert u dit muziekfragment?","Luister naar het volgende audiofragment:
+
+
+
+
+
+
+
+
+Hoe waardeert u dit muziekfragment?","Luister naar het volgende audiofragment:
+
+
+
+
+
+
+
+
+Hoe waardeert u dit muziekfragment?","Luister naar het volgende audiofragment:
+
+
+
+
+
+
+
+
+Hoe waardeert u dit muziekfragment?","Luister naar het volgende audiofragment:
+
+
+
+
+
+
+
+
+Hoe waardeert u dit muziekfragment?","Luister naar het volgende audiofragment:
+
+
+
+
+
+
+
+
+Hoe waardeert u dit muziekfragment?","Luister naar het volgende audiofragment:
+
+
+
+
+
+
+
+
+Hoe waardeert u dit muziekfragment?","Luister naar het volgende audiofragment:
+
+
+
+
+
+
+
+
+Hoe waardeert u dit muziekfragment?","Luister naar het volgende audiofragment:
+
+
+
+
+
+
+
+
+Hoe waardeert u dit muziekfragment?","Luister naar het volgende audiofragment:
+
+
+
+
+
+
+
+
+Hoe waardeert u dit muziekfragment?","Luister naar het volgende audiofragment:
+
+
+
+
+
+
+
+
+Hoe waardeert u dit muziekfragment?","Luister naar het volgende audiofragment:
+
+
+
+
+
+
+
+
+Hoe waardeert u dit muziekfragment?","Luister naar het volgende audiofragment:
+
+
+
+
+
+
+
+
+Hoe waardeert u dit muziekfragment?","Luister naar het volgende audiofragment:
+
+
+
+
+
+
+
+
+Hoe waardeert u dit muziekfragment?","Luister naar het volgende audiofragment:
+
+
+
+
+
+
+
+
+Hoe waardeert u dit muziekfragment?","Luister naar het volgende audiofragment:
+
+
+
+
+
+
+
+
+Hoe waardeert u dit muziekfragment?","Luister naar het volgende audiofragment:
+
+
+
+
+
+
+
+
+Hoe waardeert u dit muziekfragment?"
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID4""}","{""ImportId"":""QID7""}","{""ImportId"":""QID6""}","{""ImportId"":""QID33""}","{""ImportId"":""QID8""}","{""ImportId"":""QID9""}","{""ImportId"":""QID10""}","{""ImportId"":""QID11""}","{""ImportId"":""QID12""}","{""ImportId"":""QID14""}","{""ImportId"":""QID15""}","{""ImportId"":""QID16""}","{""ImportId"":""QID17""}","{""ImportId"":""QID18""}","{""ImportId"":""QID19""}","{""ImportId"":""QID20""}","{""ImportId"":""QID21""}","{""ImportId"":""QID22""}","{""ImportId"":""QID23""}","{""ImportId"":""QID24""}","{""ImportId"":""QID25""}","{""ImportId"":""QID26""}","{""ImportId"":""QID27""}","{""ImportId"":""QID28""}","{""ImportId"":""QID29""}","{""ImportId"":""QID30""}","{""ImportId"":""QID31""}","{""ImportId"":""QID32""}"
+2025-12-08 03:17:50,2025-12-08 03:33:57,IP Address,178.230.104.224,100,967,True,2025-12-08 03:33:58,R_2SuHZFHlV4PkBUT,,,,,51.9486,4.5588,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",80-85 jaar,Vrouw,"Ja, een beetje",Nee,"Ik speelde vroeger een (of meerdere) instrument(en) of ik zong, maar nu niet meer",Ik herken soms muziek uit de jaren '80,,2: Ik vind het redelijk,4: Ik vind het heel mooi,2: Ik vind het redelijk,4: Ik vind het heel mooi,3: Ik vind het mooi,3: Ik vind het mooi,3: Ik vind het mooi,3: Ik vind het mooi,2: Ik vind het redelijk,3: Ik vind het mooi,2: Ik vind het redelijk,3: Ik vind het mooi,3: Ik vind het mooi,3: Ik vind het mooi,3: Ik vind het mooi,2: Ik vind het redelijk,4: Ik vind het heel mooi,3: Ik vind het mooi,4: Ik vind het heel mooi,2: Ik vind het redelijk
+2025-12-08 03:37:18,2025-12-08 03:50:35,IP Address,178.230.104.224,100,796,True,2025-12-08 03:50:35,R_82bFiyjCJtwjGtP,,,,,51.9486,4.5588,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",80-85 jaar,Vrouw,"Ja, een beetje",Nee,Ik heb geen muzikale achtergrond,,,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,3: Ik vind het mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,3: Ik vind het mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,3: Ik vind het mooi
+2025-12-08 04:01:20,2025-12-08 04:11:27,IP Address,178.230.104.224,100,606,True,2025-12-08 04:11:28,R_8I0cbUeDaxL0UVj,,,,,51.9486,4.5588,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",Zeg ik liever niet,Vrouw,Nee,Nee,"Ik speelde vroeger een (of meerdere) instrument(en) of ik zong, maar nu niet meer",,,2: Ik vind het redelijk,3: Ik vind het mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,1: Ik vind het niet mooi,2: Ik vind het redelijk,3: Ik vind het mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,3: Ik vind het mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,1: Ik vind het niet mooi,2: Ik vind het redelijk,3: Ik vind het mooi,3: Ik vind het mooi
+2025-12-08 04:38:36,2025-12-08 05:15:16,IP Address,178.230.104.224,100,2199,True,2025-12-08 05:15:16,R_8CKqfFTtnK3AYxj,,,,,51.9486,4.5588,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",Zeg ik liever niet,Vrouw,Nee,Nee,"Ik speelde vroeger een (of meerdere) instrument(en) of ik zong, maar nu niet meer",,,3: Ik vind het mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,3: Ik vind het mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,1: Ik vind het niet mooi,3: Ik vind het mooi,1: Ik vind het niet mooi,3: Ik vind het mooi,1: Ik vind het niet mooi,3: Ik vind het mooi,1: Ik vind het niet mooi,3: Ik vind het mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,3: Ik vind het mooi,3: Ik vind het mooi
+2025-12-08 05:22:35,2025-12-08 05:32:06,IP Address,178.230.104.224,100,570,True,2025-12-08 05:32:06,R_23Rpoj8grzyiCxb,,,,,51.9486,4.5588,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",80-85 jaar,Man,Nee,Nee,"Ik speelde vroeger een (of meerdere) instrument(en) of ik zong, maar nu niet meer",,,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,3: Ik vind het mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,1: Ik vind het niet mooi,2: Ik vind het redelijk,3: Ik vind het mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,3: Ik vind het mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,3: Ik vind het mooi
+2025-12-08 11:04:36,2025-12-08 11:07:19,IP Address,172.226.96.15,100,163,True,2025-12-08 11:07:20,R_2q7MtJeInbQaSfM,,,,,52.3803,4.6422,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",65-69 jaar,Man,Nee,Nee,"Ik speelde vroeger een (of meerdere) instrument(en) of ik zong, maar nu niet meer",Ik herken vaak muziek uit de jaren '80,4,3: Ik vind het mooi,3: Ik vind het mooi,3: Ik vind het mooi,4: Ik vind het heel mooi,3: Ik vind het mooi,3: Ik vind het mooi,3: Ik vind het mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,2: Ik vind het redelijk,4: Ik vind het heel mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,3: Ik vind het mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,4: Ik vind het heel mooi
+2025-12-08 11:03:13,2025-12-08 11:08:59,IP Address,83.82.230.5,100,346,True,2025-12-08 11:08:59,R_8fjIiX3DpQAE4hz,,,,,52.0729,4.2713,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",65-69 jaar,Vrouw,Nee,Nee,"Ik speelde vroeger een (of meerdere) instrument(en) of ik zong, en nu nog steeds",Ik herken soms muziek uit de jaren '80,4,2: Ik vind het redelijk,3: Ik vind het mooi,4: Ik vind het heel mooi,4: Ik vind het heel mooi,2: Ik vind het redelijk,4: Ik vind het heel mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,3: Ik vind het mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,4: Ik vind het heel mooi,2: Ik vind het redelijk,3: Ik vind het mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,4: Ik vind het heel mooi,3: Ik vind het mooi,2: Ik vind het redelijk,3: Ik vind het mooi
+2025-12-08 14:21:06,2025-12-08 14:38:02,IP Address,195.240.89.173,100,1016,True,2025-12-08 14:38:03,R_2D9fLgg9ooZ8HZf,,,,,52.0907,4.2661,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",65-69 jaar,Man,Nee,Nee,"Ik speelde vroeger een (of meerdere) instrument(en) of ik zong, maar nu niet meer",Ik herken soms muziek uit de jaren '80,5,2: Ik vind het redelijk,3: Ik vind het mooi,2: Ik vind het redelijk,4: Ik vind het heel mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,1: Ik vind het niet mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,3: Ik vind het mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,3: Ik vind het mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,3: Ik vind het mooi
+2025-12-09 12:27:50,2025-12-09 12:40:53,IP Address,81.207.16.80,100,783,True,2025-12-09 12:40:54,R_8pXA2ABVUkE3TQ1,,,,,52.0839,4.7521,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",70-74 jaar,Man,"Ja, een beetje",Nee,"Ik speelde vroeger een (of meerdere) instrument(en) of ik zong, en nu nog steeds",Ik herken soms muziek uit de jaren '80,4,1: Ik vind het niet mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,3: Ik vind het mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,1: Ik vind het niet mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,1: Ik vind het niet mooi,2: Ik vind het redelijk
+2025-12-14 03:19:54,2025-12-14 03:27:45,IP Address,213.247.122.50,100,470,True,2025-12-14 03:27:45,R_8GwPECvACZIqSu9,,,,,52.3125,4.6445,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",70-74 jaar,Man,"Ja, een beetje",Nee,Ik heb geen muzikale achtergrond,Ik herken soms muziek uit de jaren '80,5,1: Ik vind het niet mooi,3: Ik vind het mooi,4: Ik vind het heel mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,3: Ik vind het mooi,3: Ik vind het mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,1: Ik vind het niet mooi,2: Ik vind het redelijk
+2025-12-14 06:28:06,2025-12-14 06:37:50,IP Address,83.85.187.179,100,583,True,2025-12-14 06:37:50,R_8OjKKeCfU6hNSry,,,,,52.0708,4.3079,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",70-74 jaar,Man,Nee,Nee,"Ik speelde vroeger een (of meerdere) instrument(en) of ik zong, en nu nog steeds",Ik herken vaak muziek uit de jaren '80,5,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,1: Ik vind het niet mooi,3: Ik vind het mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,4: Ik vind het heel mooi,1: Ik vind het niet mooi,4: Ik vind het heel mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,3: Ik vind het mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk
+2025-12-14 08:30:59,2025-12-14 08:37:53,IP Address,104.28.30.75,100,414,True,2025-12-14 08:37:53,R_2pS5A1xdJgNoKNu,,,,,52.3759,4.8975,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",75-79 jaar,Man,Nee,Nee,Ik heb geen muzikale achtergrond,Ik herken soms muziek uit de jaren '80,5,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk
+2025-12-14 12:30:07,2025-12-14 12:43:26,IP Address,77.164.132.170,100,799,True,2025-12-14 12:43:27,R_2IMAKA3vRVOB6N4,,,,,51.5711,4.8031,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",75-79 jaar,Man,Nee,Nee,"Ik speelde vroeger een (of meerdere) instrument(en) of ik zong, maar nu niet meer",Ik herken vaak muziek uit de jaren '80,5,2: Ik vind het redelijk,1: Ik vind het niet mooi,4: Ik vind het heel mooi,3: Ik vind het mooi,2: Ik vind het redelijk,3: Ik vind het mooi,3: Ik vind het mooi,1: Ik vind het niet mooi,3: Ik vind het mooi,1: Ik vind het niet mooi,3: Ik vind het mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,3: Ik vind het mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,1: Ik vind het niet mooi
+2025-12-14 13:53:00,2025-12-14 14:03:12,IP Address,84.30.148.93,100,612,True,2025-12-14 14:03:14,R_8IWstAMMIWaxvvX,,,,,51.5653,5.0543,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",70-74 jaar,Man,Nee,Nee,Ik heb geen muzikale achtergrond,Ik herken soms muziek uit de jaren '80,4,2: Ik vind het redelijk,3: Ik vind het mooi,2: Ik vind het redelijk,3: Ik vind het mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,4: Ik vind het heel mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,1: Ik vind het niet mooi,1: Ik vind het niet mooi
+2025-12-15 08:44:05,2025-12-15 08:55:29,IP Address,82.170.50.24,100,683,True,2025-12-15 08:55:29,R_8DqvxeQIfMh66IN,,,,,51.698,5.2985,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",70-74 jaar,Man,Nee,Nee,Ik heb geen muzikale achtergrond,Ik herken soms muziek uit de jaren '80,4,1: Ik vind het niet mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,3: Ik vind het mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,1: Ik vind het niet mooi
+2025-12-15 10:08:25,2025-12-15 10:56:13,IP Address,87.208.31.216,100,2867,True,2025-12-15 10:56:13,R_8exKiLPSvJEBwaJ,,,,,51.4646,5.7912,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",65-69 jaar,Man,Nee,Nee,"Ik speelde vroeger een (of meerdere) instrument(en) of ik zong, maar nu niet meer",Ik herken vaak muziek uit de jaren '80,5,2: Ik vind het redelijk,2: Ik vind het redelijk,1: Ik vind het niet mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,3: Ik vind het mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,1: Ik vind het niet mooi,3: Ik vind het mooi,2: Ik vind het redelijk,3: Ik vind het mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,1: Ik vind het niet mooi,3: Ik vind het mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,3: Ik vind het mooi
+2025-12-15 13:51:11,2025-12-15 14:03:09,IP Address,188.142.5.53,100,717,True,2025-12-15 14:03:09,R_8sbnKUsHqGC0oGE,,,,,51.9191,4.4414,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",65-69 jaar,Man,Nee,Nee,"Ik speelde vroeger een (of meerdere) instrument(en) of ik zong, maar nu niet meer",Ik herken vaak muziek uit de jaren '80,5,3: Ik vind het mooi,2: Ik vind het redelijk,3: Ik vind het mooi,3: Ik vind het mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,1: Ik vind het niet mooi,2: Ik vind het redelijk,4: Ik vind het heel mooi,3: Ik vind het mooi,2: Ik vind het redelijk,3: Ik vind het mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,1: Ik vind het niet mooi,3: Ik vind het mooi,2: Ik vind het redelijk,3: Ik vind het mooi
+2025-12-16 00:55:06,2025-12-16 01:08:47,IP Address,83.247.33.100,100,820,True,2025-12-16 01:08:47,R_8nOszIlJnfk11sK,,,,,52.1122,5.7115,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",65-69 jaar,Man,Nee,Nee,Ik heb geen muzikale achtergrond,Ik herken soms muziek uit de jaren '80,4,2: Ik vind het redelijk,3: Ik vind het mooi,2: Ik vind het redelijk,3: Ik vind het mooi,2: Ik vind het redelijk,3: Ik vind het mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,3: Ik vind het mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,3: Ik vind het mooi,2: Ik vind het redelijk,4: Ik vind het heel mooi
+2025-12-15 14:07:16,2025-12-16 02:00:00,IP Address,77.166.228.34,100,42763,True,2025-12-16 02:00:00,R_2K3lWk7PxCcZocw,,,,,51.405,5.7481,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",80-85 jaar,Man,"Ja, veel",Ja,"Ik speelde vroeger een (of meerdere) instrument(en) of ik zong, maar nu niet meer",Ik herken soms muziek uit de jaren '80,3,4: Ik vind het heel mooi,3: Ik vind het mooi,2: Ik vind het redelijk,3: Ik vind het mooi,2: Ik vind het redelijk,3: Ik vind het mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,3: Ik vind het mooi,1: Ik vind het niet mooi,4: Ik vind het heel mooi,2: Ik vind het redelijk,3: Ik vind het mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,3: Ik vind het mooi,2: Ik vind het redelijk,3: Ik vind het mooi,4: Ik vind het heel mooi
+2025-12-16 01:57:20,2025-12-16 02:02:40,IP Address,77.161.0.158,100,320,True,2025-12-16 02:02:41,R_2DTu1vzOL7hcwdP,,,,,51.4646,5.7912,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",70-74 jaar,Man,Nee,Nee,"Ik speelde vroeger een (of meerdere) instrument(en) of ik zong, en nu nog steeds",Ik herken soms muziek uit de jaren '80,5,3: Ik vind het mooi,3: Ik vind het mooi,2: Ik vind het redelijk,4: Ik vind het heel mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,1: Ik vind het niet mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,3: Ik vind het mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk
+2025-12-16 03:03:16,2025-12-16 03:16:58,IP Address,80.61.150.2,100,821,True,2025-12-16 03:16:58,R_8mXkKStN6wsRPq8,,,,,51.4646,5.7912,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",75-79 jaar,Man,Nee,Nee,"Ik speelde vroeger een (of meerdere) instrument(en) of ik zong, maar nu niet meer",Ik herken soms muziek uit de jaren '80,5,2: Ik vind het redelijk,3: Ik vind het mooi,3: Ik vind het mooi,3: Ik vind het mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,4: Ik vind het heel mooi,3: Ik vind het mooi,3: Ik vind het mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,1: Ik vind het niet mooi,3: Ik vind het mooi,4: Ik vind het heel mooi
+2025-12-16 11:26:25,2025-12-16 11:33:41,IP Address,77.170.201.117,100,435,True,2025-12-16 11:33:41,R_2CJEsDXrtEfMHg8,,,,,51.5494,5.6917,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",75-79 jaar,Man,"Ja, een beetje",Ja,Ik heb geen muzikale achtergrond,Ik herken soms muziek uit de jaren '80,5,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,1: Ik vind het niet mooi,2: Ik vind het redelijk
+2025-12-17 02:51:34,2025-12-17 03:04:10,IP Address,62.131.194.92,100,756,True,2025-12-17 03:04:11,R_2OlkPxUDtBHaMZg,,,,,51.405,5.7481,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",70-74 jaar,Man,Nee,Nee,Ik heb geen muzikale achtergrond,Ik herken vaak muziek uit de jaren '80,4,1: Ik vind het niet mooi,2: Ik vind het redelijk,3: Ik vind het mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,1: Ik vind het niet mooi,3: Ik vind het mooi,2: Ik vind het redelijk,2: Ik vind het redelijk
+2025-12-17 06:15:35,2025-12-17 06:20:54,IP Address,89.98.201.142,100,319,True,2025-12-17 06:20:55,R_2rjdXSTy2JaOQSW,,,,,51.4646,5.7912,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",Zeg ik liever niet,Vrouw,Nee,Ja,Ik heb een professionele muzikale achtergrond,Ik herken vaak muziek uit de jaren '80,5,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,3: Ik vind het mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,3: Ik vind het mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,1: Ik vind het niet mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,4: Ik vind het heel mooi
+2025-12-17 06:54:14,2025-12-17 07:07:32,IP Address,86.86.74.22,100,798,True,2025-12-17 07:07:32,R_83EdAYBW7qi5mRT,,,,,51.388,5.7099,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",75-79 jaar,Man,Nee,Nee,"Ik speelde vroeger een (of meerdere) instrument(en) of ik zong, en nu nog steeds",Ik herken vaak muziek uit de jaren '80,5,3: Ik vind het mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,3: Ik vind het mooi,4: Ik vind het heel mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,3: Ik vind het mooi,1: Ik vind het niet mooi,3: Ik vind het mooi,1: Ik vind het niet mooi,3: Ik vind het mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,4: Ik vind het heel mooi
+2025-12-18 04:45:35,2025-12-18 05:01:35,IP Address,77.249.150.56,100,960,True,2025-12-18 05:01:36,R_8KoxlUNEnPtHiqm,,,,,51.405,5.7481,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",75-79 jaar,Man,"Ja, een beetje",Ja,Ik heb geen muzikale achtergrond,Ik herken nooit muziek uit de jaren '80,5,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,3: Ik vind het mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,3: Ik vind het mooi,3: Ik vind het mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,3: Ik vind het mooi,2: Ik vind het redelijk,4: Ik vind het heel mooi
+2025-12-18 08:45:41,2025-12-18 09:00:30,IP Address,77.170.215.68,100,889,True,2025-12-18 09:00:30,R_81B8ixnavNDVOr9,,,,,51.3681,5.7095,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",80-85 jaar,Man,"Ja, een beetje",Ja,Ik heb geen muzikale achtergrond,Ik herken soms muziek uit de jaren '80,5,1: Ik vind het niet mooi,3: Ik vind het mooi,1: Ik vind het niet mooi,4: Ik vind het heel mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,3: Ik vind het mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,2: Ik vind het redelijk,1: Ik vind het niet mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,3: Ik vind het mooi,3: Ik vind het mooi,3: Ik vind het mooi
+2025-12-18 09:00:51,2025-12-18 09:14:01,IP Address,77.170.215.68,100,789,True,2025-12-18 09:14:01,R_2HAKAWx2DzYM2fM,,,,,51.3681,5.7095,anonymous,EN,,75-79 jaar,Vrouw,Nee,Nee,"Ik speelde vroeger een (of meerdere) instrument(en) of ik zong, maar nu niet meer",Ik herken vaak muziek uit de jaren '80,5,1: Ik vind het niet mooi,4: Ik vind het heel mooi,4: Ik vind het heel mooi,4: Ik vind het heel mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,1: Ik vind het niet mooi,3: Ik vind het mooi,1: Ik vind het niet mooi,3: Ik vind het mooi,4: Ik vind het heel mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,4: Ik vind het heel mooi,2: Ik vind het redelijk,2: Ik vind het redelijk
+2025-12-15 01:14:22,2025-12-15 01:19:32,IP Address,77.249.150.122,31,309,False,2025-12-22 01:19:33,R_2Ei8P1OmD2CwuZX,,,,,51.405,5.7481,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",80-85 jaar,Man,Nee,Nee,"Ik speelde vroeger een (of meerdere) instrument(en) of ik zong, maar nu niet meer",Ik herken soms muziek uit de jaren '80,5,,,,,,,,,,,,,,,,,,,,
+2025-12-15 08:34:57,2025-12-15 08:43:41,IP Address,82.170.50.24,31,523,False,2025-12-22 08:43:42,R_8r0ZlHEPB6ZS8Q5,,,,,51.698,5.2985,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",70-74 jaar,Man,Nee,Nee,Ik heb geen muzikale achtergrond,Ik herken soms muziek uit de jaren '80,4,,,,,,,,,,,,,,,,,,,,
+2025-12-16 03:43:49,2025-12-16 03:44:19,IP Address,80.61.150.2,3,30,False,2025-12-23 03:44:23,R_8PImz8hlpI0DK7v,,,,,51.4646,5.7912,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2025-12-16 05:43:41,2025-12-16 05:45:43,IP Address,77.170.201.117,3,122,False,2025-12-23 05:45:44,R_2ohV2XUr5izk1AF,,,,,51.5494,5.6917,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2025-12-17 13:12:11,2025-12-17 15:15:43,IP Address,217.103.128.56,31,7411,False,2025-12-24 15:15:51,R_2J2zvLHqUv2wZXj,,,,,51.405,5.7481,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",Zeg ik liever niet,Man,"Ja, een beetje",Ja,"Ik speelde vroeger een (of meerdere) instrument(en) of ik zong, maar nu niet meer",Ik herken nooit muziek uit de jaren '80,3,,,,,,,,,,,,,,,,,,,,
+2025-12-18 02:46:59,2025-12-18 02:47:05,IP Address,84.25.111.174,3,5,False,2025-12-25 02:47:11,R_82gWJ23vR7NgZBM,,,,,52.3553,4.6353,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-01-02 03:35:07,2026-01-02 03:38:40,IP Address,84.87.23.70,100,212,True,2026-01-02 03:38:41,R_27jzjlMssxVYGhX,,,,,52.3746,4.8552,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",65-69 jaar,Vrouw,Nee,Nee,"Ik speelde vroeger een (of meerdere) instrument(en) of ik zong, en nu nog steeds",Ik herken soms muziek uit de jaren '80,5,2: Ik vind het redelijk,4: Ik vind het heel mooi,1: Ik vind het niet mooi,3: Ik vind het mooi,3: Ik vind het mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,3: Ik vind het mooi,1: Ik vind het niet mooi,3: Ik vind het mooi,3: Ik vind het mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,4: Ik vind het heel mooi,3: Ik vind het mooi,3: Ik vind het mooi,4: Ik vind het heel mooi
+2026-01-02 04:00:04,2026-01-02 04:01:48,IP Address,84.87.23.70,100,104,True,2026-01-02 04:01:48,R_8ARngC10DCvmamV,,,,,52.3746,4.8552,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",80-85 jaar,Vrouw,Nee,Nee,"Ik speelde vroeger een (of meerdere) instrument(en) of ik zong, en nu nog steeds",Ik herken soms muziek uit de jaren '80,5,3: Ik vind het mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,4: Ik vind het heel mooi,3: Ik vind het mooi,2: Ik vind het redelijk,3: Ik vind het mooi,1: Ik vind het niet mooi,3: Ik vind het mooi,1: Ik vind het niet mooi,3: Ik vind het mooi,4: Ik vind het heel mooi,1: Ik vind het niet mooi,1: Ik vind het niet mooi,2: Ik vind het redelijk,3: Ik vind het mooi,3: Ik vind het mooi,2: Ik vind het redelijk,4: Ik vind het heel mooi,4: Ik vind het heel mooi
+2026-01-02 04:02:41,2026-01-02 04:04:26,IP Address,84.87.23.70,100,104,True,2026-01-02 04:04:26,R_88kJF2m26chBG49,,,,,52.3746,4.8552,anonymous,EN,"Ja, ik ga akkoord en neem vrijwillig deel aan dit onderzoek.",65-69 jaar,Vrouw,Nee,Nee,,,,2: Ik vind het redelijk,3: Ik vind het mooi,1: Ik vind het niet mooi,4: Ik vind het heel mooi,3: Ik vind het mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,1: Ik vind het niet mooi,2: Ik vind het redelijk,2: Ik vind het redelijk,3: Ik vind het mooi,4: Ik vind het heel mooi,2: Ik vind het redelijk,1: Ik vind het niet mooi,2: Ik vind het redelijk,4: Ik vind het heel mooi,3: Ik vind het mooi,3: Ik vind het mooi,4: Ik vind het heel mooi,4: Ik vind het heel mooi
